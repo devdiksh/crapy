@@ -35,7 +35,7 @@ const checkCwdIsStrapiApp = name => {
 const getLocalScript = name => (...args) => {
   checkCwdIsStrapiApp(name);
 
-  const cmdPath = resolveCwd.silent(`@strapi/strapi/lib/commands/${name}`);
+  const cmdPath = resolveCwd.silent(`@crapy/crapy/lib/commands/${name}`);
   if (!cmdPath) {
     console.log(
       `Error loading the local ${yellow(
