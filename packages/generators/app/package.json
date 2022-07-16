@@ -1,19 +1,19 @@
 {
-  "name": "@strapi/generate-new",
+  "name": "@crapy/generate-new",
   "version": "4.2.2",
-  "description": "Generate a new Strapi application.",
+  "description": "Generate a new Crapy application.",
   "keywords": [
     "generate",
     "generator",
-    "strapi"
+    "crapy"
   ],
   "homepage": "https://strapi.io",
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/devdiksh/crapy/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/devdiksh/crapy/strapi.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
