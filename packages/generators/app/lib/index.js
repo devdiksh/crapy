@@ -34,7 +34,7 @@ const generateNewApp = (projectDirectory, cliArguments) => {
     // disable quickstart run app after creation
     runQuickstartApp: cliArguments.run === false ? false : true,
     // use pacakge version as strapiVersion (all packages have the same version);
-    strapiVersion: require('../package.json').version,
+    strapiVersion: '4.2.2',
     debug: cliArguments.debug !== undefined,
     quick: cliArguments.quickstart,
     template: cliArguments.template,
@@ -50,7 +50,7 @@ const generateNewApp = (projectDirectory, cliArguments) => {
     useYarn: !useNpm && hasYarn(),
     installDependencies: true,
     strapiDependencies: [
-      '@strapi/strapi',
+      '@crapy/crapy',
       '@strapi/plugin-users-permissions',
       '@strapi/plugin-i18n',
     ],

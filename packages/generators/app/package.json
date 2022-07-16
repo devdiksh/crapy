@@ -1,6 +1,6 @@
 {
   "name": "@crapy/generate-new",
-  "version": "4.2.2",
+  "version": "4.2.4",
   "description": "Generate a new Crapy application.",
   "keywords": [
     "generate",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/devdiksh/crapy/strapi.git"
+    "url": "git://github.com/devdiksh/crapy.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {

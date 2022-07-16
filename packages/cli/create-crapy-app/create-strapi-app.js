@@ -2,7 +2,7 @@
 
 const { resolve } = require('path');
 const commander = require('commander');
-const { checkInstallPath, generateNewApp } = require('@strapi/generate-new');
+const { checkInstallPath, generateNewApp } = require('@crapy/generate-new');
 const promptUser = require('./utils/prompt-user');
 // eslint-disable-next-line import/extensions
 const packageJson = require('./package.json');

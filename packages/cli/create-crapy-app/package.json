@@ -1,6 +1,6 @@
 {
   "name": "create-crapy-app",
-  "version": "4.2.2",
+  "version": "4.2.5",
   "description": "Generate a new Crapy application.",
   "keywords": [
     "create-crapy-app",
@@ -38,7 +38,7 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
-    "@strapi/generate-new": "4.2.2",
+    "@crapy/generate-new": "4.2.4",
     "commander": "6.1.0",
     "inquirer": "8.2.4"
   },

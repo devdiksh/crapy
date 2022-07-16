@@ -1,5 +1,5 @@
 {
-  "name": "@devdiksh/crapy",
+  "name": "@crapy/crapy",
   "version": "4.2.2",
   "description": "An open source headless CMS solution to create and manage your own API for Free. It provides a powerful dashboard and features to make your life easier. Databases supported: MySQL, MariaDB, PostgreSQL, SQLite",
   "keywords": [
