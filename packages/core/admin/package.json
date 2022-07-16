@@ -57,7 +57,7 @@
     "@strapi/utils": "4.2.2",
     "axios": "0.24.0",
     "babel-loader": "8.2.5",
-    "babel-plugin-styled-components": "2.0.2",
+    "babel-plugin-styled-components": "2.0.7",
     "bcryptjs": "2.4.3",
     "chalk": "^4.1.1",
     "chokidar": "^3.5.1",
