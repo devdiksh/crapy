@@ -31,6 +31,11 @@ module.exports = opts => {
     dependencies: Object.assign(
       {},
       strapiDependencies.reduce((acc, key) => {
+        if(key === '@crapy/crapy') {
+        acc[key] = '4.2.3';
+          return acc
+        }
+
         acc[key] = strapiVersion;
         return acc;
       }, {}),
