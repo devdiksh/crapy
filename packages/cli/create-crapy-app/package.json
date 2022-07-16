@@ -1,31 +1,31 @@
 {
-  "name": "create-strapi-app",
+  "name": "create-crapy-app",
   "version": "4.2.2",
-  "description": "Generate a new Strapi application.",
+  "description": "Generate a new Crapy application.",
   "keywords": [
-    "create-strapi-app",
+    "create-crapy-app",
     "create",
     "new",
     "generate",
-    "strapi"
+    "crapy"
   ],
   "homepage": "https://strapi.io",
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/devdiksh/crapy/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/devdiksh/crapy.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
-    "name": "Strapi Solutions SAS",
+    "name": "Crapy Solutions SAS",
     "email": "hi@strapi.io",
     "url": "https://strapi.io"
   },
   "maintainers": [
     {
-      "name": "Strapi Solutions SAS",
+      "name": "Crapy Solutions SAS",
       "email": "hi@strapi.io",
       "url": "https://strapi.io"
     }
