@@ -38,7 +38,7 @@
     "test": "echo \"no tests yet\""
   },
   "dependencies": {
-    "@crapy/generate-new": "4.2.4",
+    "@crapy/generate-new": "4.2.5",
     "commander": "6.1.0",
     "inquirer": "8.2.4"
   },
